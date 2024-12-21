@@ -33,19 +33,25 @@ An intuitive and feature-rich mobile application for seamless online shopping, o
 ## User Interface
 
 **On Boarding**
+
 ![OnBoarding](https://raw.githubusercontent.com/aleenaabid196/AKHUWAT-Store/refs/heads/main/AkhuwatStoreSS/OnBoarding%20Screen.png)
 
 **Sign Up**
+
 ![Sign_Up](https://raw.githubusercontent.com/aleenaabid196/AKHUWAT-Store/refs/heads/main/AkhuwatStoreSS/SignUp.png)
 
 **Category**
+
 ![Category](https://raw.githubusercontent.com/aleenaabid196/AKHUWAT-Store/refs/heads/main/AkhuwatStoreSS/Category.png)
 
 **Profile**
+
 ![Profile](https://raw.githubusercontent.com/aleenaabid196/AKHUWAT-Store/refs/heads/main/AkhuwatStoreSS/Profile%20Edit.png)
 
 **Messaging**
+
 ![Messaging](https://raw.githubusercontent.com/aleenaabid196/AKHUWAT-Store/refs/heads/main/AkhuwatStoreSS/Messaging.jpg)
 
 **Checkout**
+
 ![Checkout](https://raw.githubusercontent.com/aleenaabid196/AKHUWAT-Store/refs/heads/main/AkhuwatStoreSS/Checkout.png)
